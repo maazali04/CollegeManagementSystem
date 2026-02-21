@@ -38,7 +38,7 @@ The application implements a `ThemeManager` class to decouple design from logic,
 *(Tip: Add your app screenshots here to show off that beautiful UI!)*
 | Dashboard | Fee Management |
 | :---: | :---: |
-| ![Dashboard Screenshot](Docs/dashboard.png) | ![Fees Screenshot](Docs/fees.png) |
+| ![Dashboard Screenshot](Docs/Dashboard.png) | ![Fees Screenshot](Docs/fees.png) |
 
 ---
 
